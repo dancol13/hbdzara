@@ -1,1 +1,0 @@
-Buka index.html. index.html dan musik.mp3 harus berada dalam folder yang sama. Tekan 'buka pelan-pelan' untuk memulai musik.
